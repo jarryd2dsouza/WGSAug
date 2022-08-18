@@ -5,12 +5,12 @@ public class calculator {
      
 		System.out.println("Addition");
         
-		Math.add(27,67);
+		math.add(28,67);
         
-		Math.add(65,89,43);
+		math.add(65,89,43);
         
 		System.out.println("Multiplication");
         
-		Math.multiply(23,8);
+		math.multiply(23,8);
     }
 }
